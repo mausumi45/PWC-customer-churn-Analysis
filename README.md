@@ -9,4 +9,5 @@ In this Analyis ,i have checked for the trends on how people are leaving our pro
 This is the third task of PWC virtual internship  and it was provided by call center retention manager . Below is the link of Dataset:
 - Link : [Churn-Dataset (1).xlsx](https://github.com/mausumi45/PWC-customer-churn-Analysis/files/10328362/Churn-Dataset.1.xlsx)
 ### Data Preparation :
-I study the data using Excel for a quick preview . Then ,i imported the data in PowerBI using Get Data option and transformed the data in Power Query Editor.
+I studied the data using Excel for a quick preview . Then ,i imported the data in PowerBI using Get Data option and transformed the data in Power Query Editor.
+I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned".
