@@ -4,4 +4,4 @@
 - In addition to identifying the number of loyal customers, customer retention can reflect or predict customer satisfaction, repurchase behavior, customer engagement .
 ### Introduction :
 In this Analyis ,i have checked for the trends on how people are leaving our product for other products i.e customer churn  and how we minimize the churn rate and improve retention . The below image shows the task of Customer churn analysis :
-[PhoneNow inputs (3).pdf](https://github.com/mausumi45/PWC-customer-churn-Analysis/files/10328354/PhoneNow.inputs.3.pdf)
+![360_F_365603381_jl2eSsk2nsz7hFbGpfZSWwfXLxO1Unp4](https://user-images.githubusercontent.com/98810351/210162214-f28822d2-d19e-4965-bee7-e39b16fb7b13.jpg)
