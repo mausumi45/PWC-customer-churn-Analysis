@@ -30,3 +30,10 @@ This is the third task of PWC virtual internship  and it was provided by call ce
 ### Data Preparation :
 I studied the data using Excel for a quick preview . Then ,i imported the data in PowerBI using Get Data option and transformed the data in Power Query Editor.
 I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned".
+
+
+### EDA using SQL :
+ This step invovles 3 steps i.e
+ - Analysing all categorical features 
+ - Analysing all Numerical feartures
+ -  Insights and recommendation
