@@ -37,3 +37,6 @@ I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned
  - Analysing all categorical features 
  - Analysing all Numerical feartures
  -  Insights and recommendation
+ # 1.Analysing categorical features :
+    <img width="920" alt="EDA on Telecom Customer Churn Data" src="https://user-images.githubusercontent.com/98810351/210318134-8ac91cbf-0503-45f8-b859-7ff5423d5690.png">
+
