@@ -2,8 +2,8 @@
 ### What is Customer Retention ?
 - Customer retention is a metric that measures customer loyalty, or the ability for an organization to keep its customers over time.
 - In addition to identifying the number of loyal customers, customer retention can reflect or predict customer satisfaction, repurchase behavior, customer engagement .
-### Introduction :
-In this Analyis ,i have checked for the trends on how people are leaving our product for other products i.e customer churn  and how we minimize the churn rate and improve retention .
+### Overview:
+I will be working on the telecom churn analysis and here i will be doing a complete EDA process to determine if the customer from that particular telecom industry will leave that telecom service or not meanwhile we will draw some insights from data visualization and analysis so that we could get the factors which will affect the output i.e. churn of the customer.
 ### Data Collection :
 This is the third task of PWC virtual internship  and it was provided by call center retention manager . Below is the link of Dataset:
 - Link : [Churn-Dataset (1).xlsx](https://github.com/mausumi45/PWC-customer-churn-Analysis/files/10328362/Churn-Dataset.1.xlsx)
