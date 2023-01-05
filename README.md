@@ -36,7 +36,7 @@ I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned
  This step invovles 3 steps i.e
  - Analysing all categorical features 
  - Analysing all Numerical feartures
- -  Insights and recommendation
+ -  Insights 
  ### Storytelling Dashboard Using PowerBI :
    This report contains 3 dashboards i.e.
    - Churner Profile
