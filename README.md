@@ -40,7 +40,10 @@ I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned
  ### Storytelling Dashboard Using PowerBI :
    This report contains 3 dashboards i.e.
    - Churner Profile
+   ![churn analysis-1](https://user-images.githubusercontent.com/98810351/210702905-1846a5ca-340a-4cad-b120-7bca6fb08533.jpg)
+
    - Services
+   
    - KPIs
    - Link : https://app.powerbi.com/view?r=eyJrIjoiZjJiYTllZjMtMTY4OC00ZTIzLThlNGQtZWNhNWJlN2U4MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
      
