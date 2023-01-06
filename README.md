@@ -50,4 +50,9 @@ I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned
 
    - Link : https://app.powerbi.com/view?r=eyJrIjoiZjJiYTllZjMtMTY4OC00ZTIzLThlNGQtZWNhNWJlN2U4MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
      
-    
+ ### DAX Function Used :
+ 1. CALCULATE()
+ 2. SUM()
+ 3. Filter()
+ 4. DIVIDE()
+ 
