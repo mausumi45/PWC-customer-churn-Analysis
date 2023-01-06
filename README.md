@@ -55,4 +55,6 @@ I replaced the values of churn field from 'No' To 'Stayed' and "Yes" to "Churned
  2. SUM()
  3. Filter()
  4. DIVIDE()
+ 5. COUNT()
+ 
  
